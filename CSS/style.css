@@ -1,0 +1,26 @@
+body{
+    font-family:cursive;
+}
+.bt1{
+    background-color:rgb(92, 158, 169);
+    color:white;
+    
+}
+#h2{
+    color:rgb(169, 92, 158);
+}
+#bt1{
+    background-color:rgb(169, 92, 92);
+    color:white;
+    
+}
+table{
+    border: 5px solid rgb(163, 130, 229);
+}
+tr,td,th{
+    border: 2px solid rgb(239, 170, 234);
+}
+li{
+    background:linear-gradient(pink,lightgreen,rgb(197, 227, 236));
+    width:fit-content;
+}
